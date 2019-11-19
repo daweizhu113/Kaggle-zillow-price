@@ -3,7 +3,9 @@ Zillow's Home value prediction
 
 Objective:
 This project is created based on a kaggle competition call Zillow Price: Zillow's Home Value Predicition (Zestimate).
+
 Goal: Develop an algorithm that makes predictions about the future sale prices of homes.
+
 The website link is https://www.kaggle.com/c/zillow-prize-1/overview
 
 For the Data: 
