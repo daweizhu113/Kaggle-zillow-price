@@ -38,3 +38,6 @@ train_2016.csv - the training set with transactions from 1/1/2016 to 12/31/2016
 train_2017.csv - the training set with transactions from 1/1/2017 to 9/15/2017 (released on 10/2/2017)
 
 sample_submission.csv - a sample submission file in the correct format
+
+************
+(Since the files are too large to upload into my project folder, I will not include those files but if you want to see what are those files looks like, please go to Kaggle's competition website finding this project to take a simple look.)
